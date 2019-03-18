@@ -13,5 +13,5 @@ Demo
 ![Demo](ROImages/demo2.gif)
 
 
-![Demo](ROImages/img1.gif)
-![Demo](ROImages/img2.gif)
+![Demo](ROImages/img1.jpg)
+![Demo](ROImages/img2.jpg)
